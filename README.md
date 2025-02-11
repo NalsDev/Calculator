@@ -29,7 +29,8 @@ Calculator/
 │── index.html      # Main structure
 │── styles/
 │   └── styles.css  # Styling for the calculator
-│── script.js       # JavaScript functionality
+│── scripts/
+│   └── script.js   # JavaScript logic for calculations
 └── README.md       # Project documentation
 ```
 
